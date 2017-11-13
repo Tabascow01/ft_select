@@ -2,7 +2,7 @@ NAME = ft_select
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror
 
-SRCS_NAME = main.c
+SRCS_NAME = main.c ft_store_argv.c
 
 SRCS_PATH = srcs/
 
